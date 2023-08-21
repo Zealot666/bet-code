@@ -1,0 +1,13 @@
+APScheduler==3.2.0
+werkzeug
+requests==2.20.0
+PyExecJS==1.5.1
+click
+gunicorn==19.9.0
+lxml
+redis
+pyquery
+
+Flask==2.0.3
+Jinja2==3.1.1
+
